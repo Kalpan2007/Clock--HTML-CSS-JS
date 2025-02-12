@@ -29,6 +29,6 @@ A modern digital clock with an animated circular progress indicator, built using
 ```
 
 ## Usage
-- Open `index.html` in your browser to view the clock.
+- Open `clock.html` in your browser to view the clock.
 - The clock updates every second with smooth animations.
 
