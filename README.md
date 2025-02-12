@@ -9,10 +9,6 @@ A modern digital clock with an animated circular progress indicator, built using
 - Smooth dot movement for time progression.
 - Fully responsive and stylish UI.
 
-## Preview
-![Clock Preview](preview.png)  
-*(Replace `preview.png` with an actual screenshot of the clock.)*
-
 ## Installation
 1. Clone the repository:
    ```sh
