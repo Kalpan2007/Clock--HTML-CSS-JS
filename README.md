@@ -22,7 +22,7 @@ A modern digital clock with an animated circular progress indicator, built using
    ```sh
    cd your-repo
    ```
-3. Open `index.html` in a browser.
+3. Open `clock.html` in a browser.
 
 ## File Structure
 ```
