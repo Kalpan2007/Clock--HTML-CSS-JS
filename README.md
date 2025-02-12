@@ -7,7 +7,6 @@ A modern digital clock with an animated circular progress indicator, built using
 - Uses a 12-hour format with AM/PM indicator.
 - Circular stroke animations for each time unit.
 - Smooth dot movement for time progression.
-- Fully responsive and stylish UI.
 
 ## Installation
 1. Clone the repository:
